@@ -1,1 +1,1 @@
-[]
+[{"userId":"uid_1791787232604_eqdpqb3zz","productId":"cl_pajama","name":"云朵珊瑚绒睡衣","emoji":"🛌","price":129,"qty":1,"paidAmount":129,"paidCurrency":"CNY","virtual":false,"payerType":"user","payerId":"uid_1791787232604_eqdpqb3zz","payerName":"工资卡","address":{"receiverName":"宁舒","phone":"18845623985","region":"上海市徐汇区宜山路","detailAddress":"utopia工作室"},"payCardId":"own","route":{"from":"hangzhou","hub":null,"to":"shanghai","km":165},"note":"","orderedAt":1791942765447,"deliverAt":1792082584775,"_id":1,"event":{"type":"none"}}]
